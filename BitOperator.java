@@ -20,7 +20,7 @@ public class practice1 {
 		System.out.println(c <<2); //c를 2비트 왼쪽 시프트
 		System.out.println(c >>2); //c를 2비트 오른쪽 시프트. 0 삽입
 		System.out.println(d >>2); //d를 2비트 오른쪽 시프트. 1 삽입
-		System.out.printf("%x\n", (d >>>2)); //d를 2비트 오른쪽 시프트. 0 삽
+		System.out.printf("%x\n", (d >>>2)); //d를 2비트 오른쪽 시프트. 0 삽입
 	}
 
 }
